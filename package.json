@@ -1,0 +1,22 @@
+{
+  "name": "defender-name",
+  "version": "1.0.0",
+  "description": "\u0016\u0016\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vadim-Likhachev/npm-package.git"
+  },
+  "keywords": [
+    "\u0016game"
+  ],
+  "author": "Vadim Likhachev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vadim-Likhachev/npm-package/issues"
+  },
+  "homepage": "https://github.com/Vadim-Likhachev/npm-package#readme"
+}
